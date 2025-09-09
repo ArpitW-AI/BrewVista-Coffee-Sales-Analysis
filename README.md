@@ -25,3 +25,10 @@ To build on these trends, BrewVista could run fresh promotions to sustain growth
 - Although sales continue to grow , the paced has slowed by june, suggesting demand stabilization.
 - Sales are evenly spread across all three NYC locations, indicating balance performance without reliance on single store.  
 
+<p align="center">
+  <img src="sales_growth.PNG" alt="Dashboard Preview" width="600"/>
+</p>
+
+### Peak Hours & Daily Sales Patterns
+- Sales surge during the morning rush (7–11 AM), contributing 46.2% of total sales, showing how critical these hours are for daily performance
+- 
