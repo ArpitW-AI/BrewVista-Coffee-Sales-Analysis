@@ -48,5 +48,14 @@ To build on these trends, BrewVista could run fresh promotions to sustain growth
 - Regular and Sugar Syrup together make up 4.7% of sales volume, but just 1% of revenue, suggesting their low price points dilute financial impact despite strong demand.
 
 <p align="center">
-  <img src="most_selling.PNG" alt="Dashboard Preview" width="500"/>
+  <img src="most_selling.PNG" alt="Dashboard Preview" width="600"/>
 </p>
+
+
+## Product Categories by Revenue
+
+- Coffee and Tea account for 66.7% of total revenue, highlighting both a strength (consistent demand) and a dependency risk if consumer preferences shift.
+- Together with Bakery and Drinking Chocolate, the top four categories account for ~89% of revenue, meaning almost all sales are concentrated in a handful of categories.
+- Bakery (11.8%) and Drinking Chocolate (10.4%) play a strong supporting role, together adding over 20% of revenue, suggesting they’re key complements to Coffee/Tea purchases.
+- Coffee Beans (5.7%) generate a noticeable share with highest AOV $22.8 but lag behind ready-to-drink coffee/tea, reinforcing the idea that customers prefer immediate consumption over take-home products.
+- Branded, Loose Tea, Flavours, and Packaged Chocolate combined contribute less than 5.5% of revenue, highlighting very low consumer interest.
