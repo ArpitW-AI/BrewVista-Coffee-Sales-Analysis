@@ -1,12 +1,24 @@
 # **BrewVista Coffee Sales Analysis :**
 
+## Table of Contents  
+
+- [Project Background](#project-background)  
+- [Executive Summary](#executive-summary)  
+- [Insights Deep-Dive](#insights-deep-dive)  
+  - [Sales Trends and Growth Rates](#sales-trends-and-growth-rates)  
+  - [Peak Hours & Daily Sales Patterns](#peak-hours--daily-sales-patterns)  
+  - [Top 10 Most Selling Products](#top-10-most-selling-products)  
+  - [Product Categories by Revenue](#product-categories-by-revenue)  
+- [Recommendations](#recommendations)  
+
+
 
 
 ![Dashboard Preview](dashboard.png)  
 
 
-## 📌 Project Background 
-BrewVista is a fictitious coffee shop chain operating across three locations in New York City — Astoria, Hell’s Kitchen, and Lower Manhattan. As a Data Consultant, I was tasked with extracting meaningfull insights from sale's data and providing actionable recommendations to improve performance across sales , product and marketing teams.
+##  Project Background 
+BrewVista is a fictitious coffee shop chain operating across three locations in New York City — Astoria, Hell’s Kitchen, and Lower Manhattan. As a Data Consultant, I was tasked with extracting meaningful insights from sale's data and providing actionable recommendations to improve performance across sales , product and marketing teams.
 
 ---
 
@@ -21,8 +33,8 @@ To build on these trends, BrewVista could run fresh promotions to sustain growth
 
 ### Sales Trends And Growth Rates
 - Total revenue reached $698K with overall upward trend. After a -6.7% dip in feburary, sales rebounded with 30% Growth in march with peaking in June at $166K.
-- March-May accounts for  53% of revenue, hinting at seasonality with high bewrages demand in spring. 
-- Although sales continue to grow , the paced has slowed by june, suggesting demand stabilization.
+- March-May accounts for  53% of revenue, hinting at seasonality with high beverages demand in spring. 
+- Although sales continue to grow , the pace has slowed by june, suggesting demand stabilization.
 - Sales are evenly spread across all three NYC locations, indicating balance performance without reliance on single store.  
 
 <p align="center">
@@ -46,7 +58,7 @@ To build on these trends, BrewVista could run fresh promotions to sustain growth
 - The top 10 products contribute 80% of total sales volume, showing that customer demand is concentrated in a narrow set of items.
 - Brewed Chai Tea leads with the highest units sold (17K orders), while Barista Espresso dominates in revenue, contributing 13% of total sales.
 - Hot Chocolate matches the order volume of Brewed Black Tea and Brewed Herbal Tea, yet delivers a 3.5% higher revenue share, highlighting its higher value per order.
-- Regular and Sugar Syrup together make up 4.7% of sales volume, but just 1% of revenue, suggesting their low price points dilute financial impact despite strong demand.
+- Regular and Sugar Syrup drive 4.7% of sales but only 1% of revenue, showing high demand but weak financial impact.
 
 <p align="center">
   <img src="visualization/most_selling.PNG" alt="Dashboard Preview" width="600"/>
@@ -70,9 +82,9 @@ To build on these trends, BrewVista could run fresh promotions to sustain growth
 
 ## Recommendations
 
-- Introducing a summer campaign or seasonal specials can help boost sales growth during low growth month.
+- Introducing a summer campaign or seasonal specials can help boost sales  during low growth month.
 - Since drinks dominate, speed and quality of beverage preparation during rush hours directly impact revenue and customer satisfaction,  as well as regular inventory supervision to keep revenue flow.
 - Extend Astoria’s hours to capture additional revenue, while considering earlier closing at Hell’s Kitchen and Lower Manhattan to optimize resources.
 - Coffee Beans, Branded products, Loose Tea has High AOV suggesting bundling, discounts, or marketing campaigns to increase sales.
-- Create loyalty programs for customers buying high-AOV products to substain and promote growth for targeted segment.
+- Create loyalty programs for customers buying high-AOV products to sustain and promote growth for targeted segment.
 - Flavours has very low AOV , it could be bundled with other products to increase order value.
