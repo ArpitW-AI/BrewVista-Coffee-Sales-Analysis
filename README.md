@@ -1,4 +1,3 @@
-# BrewVista-Coffee-Sales-Analysis
 Stakeholder type 
 
 
@@ -37,5 +36,17 @@ To build on these trends, BrewVista could run fresh promotions to sustain growth
 
 
 <p align="center">
-  <img src="traffic.PNG" alt="Dashboard Preview" width="600"/>
+  <img src="traffic.PNG" alt="Dashboard Preview" width="500"/>
+</p>
+
+
+### Top 10 Most Selling Products
+
+- The top 10 products contribute 80% of total sales volume, showing that customer demand is concentrated in a narrow set of items.
+- Brewed Chai Tea leads with the highest units sold (17K orders), while Barista Espresso dominates in revenue, contributing 13% of total sales.
+- Hot Chocolate matches the order volume of Brewed Black Tea and Brewed Herbal Tea, yet delivers a 3.5% higher revenue share, highlighting its higher value per order.
+- Regular and Sugar Syrup together make up 4.7% of sales volume, but just 1% of revenue, suggesting their low price points dilute financial impact despite strong demand.
+
+<p align="center">
+  <img src="most_selling.PNG" alt="Dashboard Preview" width="500"/>
 </p>
