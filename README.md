@@ -25,7 +25,7 @@ To build on these trends, BrewVista could run fresh promotions to sustain growth
 - Sales are evenly spread across all three NYC locations, indicating balance performance without reliance on single store.  
 
 <p align="center">
-  <img src="sales_growth.PNG" alt="Dashboard Preview" width="600"/>
+  <img src="sales_growth.PNG" alt="Dashboard Preview" width="590"/>
 </p>
 
 ### Peak Hours & Daily Sales Patterns
@@ -52,10 +52,19 @@ To build on these trends, BrewVista could run fresh promotions to sustain growth
 </p>
 
 
-## Product Categories by Revenue
+### Product Categories by Revenue
 
 - Coffee and Tea account for 66.7% of total revenue, highlighting both a strength (consistent demand) and a dependency risk if consumer preferences shift.
 - Together with Bakery and Drinking Chocolate, the top four categories account for ~89% of revenue, meaning almost all sales are concentrated in a handful of categories.
 - Bakery (11.8%) and Drinking Chocolate (10.4%) play a strong supporting role, together adding over 20% of revenue, suggesting they’re key complements to Coffee/Tea purchases.
 - Coffee Beans (5.7%) generate a noticeable share with highest AOV $22.8 but lag behind ready-to-drink coffee/tea, reinforcing the idea that customers prefer immediate consumption over take-home products.
 - Branded, Loose Tea, Flavours, and Packaged Chocolate combined contribute less than 5.5% of revenue, highlighting very low consumer interest.
+
+<p align="center">
+  <img src="categorie.PNG" alt="Dashboard Preview" width="600"/>
+</p>
+
+
+---
+
+## Recommendations
