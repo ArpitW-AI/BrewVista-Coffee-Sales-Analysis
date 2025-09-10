@@ -1,7 +1,7 @@
 Stakeholder type 
 
 
-<!--![Dashboard Preview](dashboard.png)-->  
+[Dashboard Preview](dashboard.png)  
 
 
 ## 📌 Project Background 
@@ -25,7 +25,7 @@ To build on these trends, BrewVista could run fresh promotions to sustain growth
 - Sales are evenly spread across all three NYC locations, indicating balance performance without reliance on single store.  
 
 <p align="center">
-  <img src="sales_growth.PNG" alt="Dashboard Preview" width="590"/>
+  <img src="visualization/sales_growth.PNG" alt="Dashboard Preview" width="590"/>
 </p>
 
 ### Peak Hours & Daily Sales Patterns
@@ -36,7 +36,7 @@ To build on these trends, BrewVista could run fresh promotions to sustain growth
 
 
 <p align="center">
-  <img src="traffic.PNG" alt="Dashboard Preview" width="500"/>
+  <img src="visualization/traffic.PNG" alt="Dashboard Preview" width="500"/>
 </p>
 
 
@@ -48,7 +48,7 @@ To build on these trends, BrewVista could run fresh promotions to sustain growth
 - Regular and Sugar Syrup together make up 4.7% of sales volume, but just 1% of revenue, suggesting their low price points dilute financial impact despite strong demand.
 
 <p align="center">
-  <img src="most_selling.PNG" alt="Dashboard Preview" width="600"/>
+  <img src="visualization/most_selling.PNG" alt="Dashboard Preview" width="600"/>
 </p>
 
 
@@ -61,10 +61,17 @@ To build on these trends, BrewVista could run fresh promotions to sustain growth
 - Branded, Loose Tea, Flavours, and Packaged Chocolate combined contribute less than 5.5% of revenue, highlighting very low consumer interest.
 
 <p align="center">
-  <img src="categorie.PNG" alt="Dashboard Preview" width="600"/>
+  <img src="visualization/categorie.PNG" alt="Dashboard Preview" width="600"/>
 </p>
 
 
 ---
 
 ## Recommendations
+
+- Introducing a summer campaign or seasonal specials can help boost sales growth during low growth month.
+- Since drinks dominate, speed and quality of beverage preparation during rush hours directly impact revenue and customer satisfaction,  as well as regular inventory supervision to keep revenue flow.
+- Extend Astoria’s hours to capture additional revenue, while considering earlier closing at Hell’s Kitchen and Lower Manhattan to optimize resources.
+- Coffee Beans, Branded products, Loose Tea has High AOV suggesting bundling, discounts, or marketing campaigns to increase sales.
+- Create loyalty programs for customers buying high-AOV products to substain and promote growth for targeted segment.
+- Flavours has very low AOV , it could be bundled with other products to increase order value.
