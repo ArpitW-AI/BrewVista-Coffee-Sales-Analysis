@@ -1,7 +1,8 @@
-Stakeholder type 
+# **BrewVista Coffee Sales Analysis :**
 
 
-[Dashboard Preview](dashboard.png)  
+
+![Dashboard Preview](dashboard.png)  
 
 
 ## 📌 Project Background 
