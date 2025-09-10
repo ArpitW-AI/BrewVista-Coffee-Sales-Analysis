@@ -30,5 +30,12 @@ To build on these trends, BrewVista could run fresh promotions to sustain growth
 </p>
 
 ### Peak Hours & Daily Sales Patterns
-- Sales surge during the morning rush (7–11 AM), contributing 46.2% of total sales, showing how critical these hours are for daily performance
-- 
+- Sales surge during the morning rush (7–11 AM), contributing 46.2% of total sales, showing how critical these hours are for daily performance.
+- Lower Manhattan and Hell's kitchen dominates morning rush with 54% of their daily sales between 7–11 AM, compared to 43% in Astoria.
+- Between 2–5 PM, sales drop by 43% on average, suggesting untapped potential for snacks or promotional offers.
+- Hell’s Kitchen and Lower Manhattan loses momentum sharply after 8 PM (-78%) and 7 PM (-91%) , whereas Astoria maintains steadier late-hour traffic despite shorter operating hours.
+
+
+<p align="center">
+  <img src="traffic.PNG" alt="Dashboard Preview" width="600"/>
+</p>
