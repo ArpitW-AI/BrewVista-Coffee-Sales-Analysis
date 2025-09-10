@@ -1,5 +1,6 @@
 # **BrewVista Coffee Sales Analysis :**
 
+
 ## Table of Contents  
 
 - [Project Background](#project-background)  
@@ -12,13 +13,15 @@
 - [Recommendations](#recommendations)  
 
 
-
+---
 
 ![Dashboard Preview](dashboard.png)  
 
+---
 
 ##  Project Background 
 BrewVista is a fictitious coffee shop chain operating across three locations in New York City — Astoria, Hell’s Kitchen, and Lower Manhattan. As a Data Consultant, I was tasked with extracting meaningful insights from sale's data and providing actionable recommendations to improve performance across sales , product and marketing teams.
+
 
 ---
 
@@ -88,3 +91,9 @@ To build on these trends, BrewVista could run fresh promotions to sustain growth
 - Coffee Beans, Branded products, Loose Tea has High AOV suggesting bundling, discounts, or marketing campaigns to increase sales.
 - Create loyalty programs for customers buying high-AOV products to sustain and promote growth for targeted segment.
 - Flavours has very low AOV , it could be bundled with other products to increase order value.
+
+---
+
+- Raw Excel file - [here]()
+- My Analysis and Pivot Tables - here
+- Visualizations - here
