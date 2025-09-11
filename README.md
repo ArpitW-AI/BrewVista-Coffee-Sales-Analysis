@@ -94,6 +94,6 @@ To build on these trends, BrewVista could run fresh promotions to sustain growth
 
 ---
 
-- Raw Excel file - [here]()
-- My Analysis and Pivot Tables - here
-- Visualizations - here
+- Raw Excel file - [here](Coffee_Sales.xlsx)
+- My Analysis and Pivot Tables - [here](Coffee_sales_raw.xlsx)
+- Visualizations - [here](Visualization)
